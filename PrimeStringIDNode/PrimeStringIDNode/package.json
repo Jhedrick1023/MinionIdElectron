@@ -1,0 +1,13 @@
+{
+  "name": "prime-string-idnode",
+  "version": "0.0.0",
+  "description": "PrimeStringIDNode",
+  "main": "app.js",
+  "author": {
+    "name": "jhedrick"
+  },
+  "dependencies": {
+    "electron": "^2.0.2",
+    "jquery": "^3.3.1"
+  }
+}
